@@ -3,7 +3,7 @@ I'm a software engineer based out in INDIA 🇮🇳 who is passionate about tech
  
 
 
-- 🔭 I’m currently working on **JAVA ,Spring and Microservices **
+- 🔭 I’m currently working on **JAVA ,Spring and Microservices**
 - 🌱 I’m currently learning **Public Cloud and Machine Learning** 
 - 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-ashu8006Kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashu8006Kumar@gmail.com)](mailto:ashu8006Kumar@gmail.com)
 
